@@ -1,0 +1,9 @@
+[submodule "Vendors/MyDesignersBestFriend"]
+	path = Vendors/MyDesignersBestFriend
+	url = https://github.com/CaptainQuirk/MyDesignersBestFriend.git
+[submodule "Vendors/Modernizr"]
+	path = Vendors/Modernizr
+	url = https://github.com/Modernizr/Modernizr.git
+[submodule "Vendors/bootstrap"]
+	path = Vendors/bootstrap
+	url = https://github.com/twitter/bootstrap.git
