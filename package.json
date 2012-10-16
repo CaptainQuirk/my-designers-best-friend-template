@@ -1,0 +1,9 @@
+{
+    "name" : "MyDesignersBestFriend",
+    "version" : "1.0.0",
+    "dependencies" : [
+        "grunt",
+        "grunt-css",
+        "grunt-modernizr"
+    ]
+}
